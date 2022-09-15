@@ -1,6 +1,6 @@
 # Shopit
 
-A inventory management system, with backend written in **Golang**, with NoSQL database **MongoDB** and UI in React.js.
+A inventory management system, with backend written in **Golang**, with NoSQL database **MongoDB** and UI in React.js
 
 ## Features:
 
